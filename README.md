@@ -1,10 +1,10 @@
 # 🏠 Nutmeg & Ginger's Cottage
 ## 🎯 Objective <br>
 This project creates a real-time fairytale game for 2–8 players, inspired by the Shrek scene where Pinocchio uses clever logic to avoid lying to Prince Charming. His replies bring propositional logic to life through playful riddles. Players join with a room code and complete synchronized, timed rounds with shared scoring as their cottage builds or crumbles. <p>
-## 💡 Inspiration <br>
+## 🎬 Inspiration <br>
 
 <a href="https://youtu.be/2xhC2cbq7zA">
-  <img src="https://img.youtube.com/vi/2xhC2cbq7zA/hqdefault.jpg" width="50%" alt="Watch Project Video">
+  <img src="https://img.youtube.com/vi/2xhC2cbq7zA/hqdefault.jpg" width="75%" alt="Watch Project Video">
 </a>
 
 ## 🛠️ Tools <br>
