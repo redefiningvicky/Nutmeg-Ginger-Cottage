@@ -4,7 +4,7 @@ This project creates a real-time fairytale game for 2–8 players, inspired by t
 ## 🎬 Inspiration <br>
 
 <a href="https://youtu.be/2xhC2cbq7zA">
-  <img src="https://img.youtube.com/vi/2xhC2cbq7zA/hqdefault.jpg" width="75%" alt="Watch Project Video">
+  <img src="https://img.youtube.com/vi/2xhC2cbq7zA/hqdefault.jpg" width="65%" alt="Watch Project Video">
 </a>
 
 ## 🛠️ Tools <br>
