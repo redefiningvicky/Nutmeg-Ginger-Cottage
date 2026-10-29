@@ -1,6 +1,6 @@
 # 🏠 Nutmeg & Ginger's Cottage
 ## 🎯 Objective <br>
-This project creates a real-time game for 2–8 players in an interactive fairytale world. Players join with a room code and play synchronized rounds with timed answers and shared scoring. Animated characters bring the story to life as the cottage builds or crumbles with each round. Responsive layouts and replay features let players enjoy another adventure on computers or phones. <p>
+This project creates a real-time fairytale game for 2–8 players, inspired by the Shrek scene where Pinocchio uses clever logic to avoid lying to Prince Charming. His replies bring propositional logic to life through playful riddles. Players join with a room code and complete synchronized, timed rounds with shared scoring as their cottage builds or crumbles. <p>
 ## 🛠️ Tools <br>
 • ChatGPT <p>
 ## 🎮 Game <br>
