@@ -1,0 +1,8 @@
+const fs=require('fs'),vm=require('vm'),assert=require('assert');const app={innerHTML:''};const ctx={document:{querySelector:s=>s==='#app'?app:null},sessionStorage:{getItem:()=>null},setInterval:()=>0,console};vm.createContext(ctx);vm.runInContext(fs.readFileSync(__dirname+'/index.html','utf8').split('<script>')[1].split('</script>')[0],ctx);
+vm.runInContext(`
+state={code:'TEST',me:'a',host:'a',players:[{id:'a',name:'A'},{id:'b',name:'B'}],phase:'reveal',round:2,progress:90,buttons:2,deadline:0,next_at:9999999999,puzzle:{question:'Question?',answer:'Truthful dodge'},answers:{a:{value:true},b:{value:true}},result:{correct:true,count:2,delta:20,explanation:'Explained'},reactions:{b:'heart'}};
+render();if(!app.innerHTML.includes('Gingerbread round!')||app.innerHTML.includes('How did that go?'))throw Error('Missing celebration or unwanted reaction panel');
+const perfect=charmingReveal(state);state.result.count=0;state.result.delta=-10;if(charmingReveal(state)===perfect)throw Error('Prince Fondant response did not change');render();if(app.innerHTML.includes('Gingerbread round!'))throw Error('Wrong answers celebrated');
+state.phase='question';state.round=10;state.intro_until=Date.now()/1000+3;state.deadline=state.intro_until+20;render();if(!app.innerHTML.includes('One last chance, builders!')||app.innerHTML.includes('>Yes</button>'))throw Error('Final intro did not gate choices');
+state.intro_until=Date.now()/1000-1;render();if(!app.innerHTML.includes('>Yes</button>'))throw Error('Choices did not appear after intro');
+`,ctx);console.log('Reaction panel removal, result-specific dialogue, perfect-round display and final introduction pass.');

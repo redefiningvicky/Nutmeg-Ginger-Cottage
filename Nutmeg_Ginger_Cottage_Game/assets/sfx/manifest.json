@@ -1,0 +1,1397 @@
+{
+  "kitchen-floor": {
+    "id": "kitchen-floor",
+    "label": "Biscuit Floor",
+    "group": "Kitchen",
+    "notes": [
+      50,
+      57
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0675,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "kitchen-walls": {
+    "id": "kitchen-walls",
+    "label": "Icing Walls",
+    "group": "Kitchen",
+    "notes": [
+      64,
+      57,
+      69
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0597,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "oven": {
+    "id": "oven",
+    "label": "Chocolate Oven",
+    "group": "Kitchen",
+    "notes": [
+      64,
+      68,
+      71
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0685,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "fridge": {
+    "id": "fridge",
+    "label": "Peppermint Fridge",
+    "group": "Kitchen",
+    "notes": [
+      71,
+      78
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.068,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "macaron-table": {
+    "id": "macaron-table",
+    "label": "Macaron Table",
+    "group": "Kitchen",
+    "notes": [
+      85,
+      78,
+      90
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.066,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "espresso": {
+    "id": "espresso",
+    "label": "Espresso-Bean Maker",
+    "group": "Kitchen",
+    "notes": [
+      85,
+      89,
+      92
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0644,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "living-floor": {
+    "id": "living-floor",
+    "label": "Biscuit Floor",
+    "group": "Living Room",
+    "notes": [
+      56,
+      63
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0681,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "living-walls": {
+    "id": "living-walls",
+    "label": "Icing Walls",
+    "group": "Living Room",
+    "notes": [
+      70,
+      63,
+      75
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0666,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "sofa": {
+    "id": "sofa",
+    "label": "Marshmallow Sofa",
+    "group": "Living Room",
+    "notes": [
+      70,
+      74,
+      77
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0647,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "fireplace": {
+    "id": "fireplace",
+    "label": "Toffee Fireplace",
+    "group": "Living Room",
+    "notes": [
+      77,
+      84
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0673,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "jawbreaker": {
+    "id": "jawbreaker",
+    "label": "Jawbreaker Shelf",
+    "group": "Living Room",
+    "notes": [
+      91,
+      84,
+      96
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0671,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "lamp": {
+    "id": "lamp",
+    "label": "Lollipop Lamp",
+    "group": "Living Room",
+    "notes": [
+      55,
+      59,
+      62
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.07,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "office-floor": {
+    "id": "office-floor",
+    "label": "Biscuit Floor",
+    "group": "Office",
+    "notes": [
+      62,
+      69
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0668,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "office-walls": {
+    "id": "office-walls",
+    "label": "Icing Walls",
+    "group": "Office",
+    "notes": [
+      76,
+      69,
+      81
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0642,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "desk": {
+    "id": "desk",
+    "label": "Pretzel Desk",
+    "group": "Office",
+    "notes": [
+      76,
+      80,
+      83
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0668,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "bookshelf": {
+    "id": "bookshelf",
+    "label": "Wafer Shelf",
+    "group": "Office",
+    "notes": [
+      83,
+      90
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.067,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "pretzel-chair": {
+    "id": "pretzel-chair",
+    "label": "Pretzel Chair",
+    "group": "Office",
+    "notes": [
+      61,
+      54,
+      66
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0609,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "rock-candy": {
+    "id": "rock-candy",
+    "label": "Rock Candy Curio",
+    "group": "Office",
+    "notes": [
+      61,
+      65,
+      68
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0685,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "bedroom-floor": {
+    "id": "bedroom-floor",
+    "label": "Biscuit Floor",
+    "group": "Bedroom",
+    "notes": [
+      68,
+      75
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0668,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "bedroom-walls": {
+    "id": "bedroom-walls",
+    "label": "Icing Walls",
+    "group": "Bedroom",
+    "notes": [
+      82,
+      75,
+      87
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0628,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "cotton-bed": {
+    "id": "cotton-bed",
+    "label": "Cotton Candy Bed",
+    "group": "Bedroom",
+    "notes": [
+      82,
+      86,
+      89
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.064,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "wardrobe": {
+    "id": "wardrobe",
+    "label": "Tootsie Wardrobe",
+    "group": "Bedroom",
+    "notes": [
+      53,
+      60
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0693,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "candyfloss": {
+    "id": "candyfloss",
+    "label": "Candyfloss Rug",
+    "group": "Bedroom",
+    "notes": [
+      67,
+      60,
+      72
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0661,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "family-painting": {
+    "id": "family-painting",
+    "label": "Family Painting",
+    "group": "Bedroom",
+    "notes": [
+      67,
+      71,
+      74
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0702,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "bathroom-floor": {
+    "id": "bathroom-floor",
+    "label": "Biscuit Floor",
+    "group": "Bathroom",
+    "notes": [
+      74,
+      81
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0695,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "bathroom-walls": {
+    "id": "bathroom-walls",
+    "label": "Icing Walls",
+    "group": "Bathroom",
+    "notes": [
+      88,
+      81,
+      93
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0641,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "tea": {
+    "id": "tea",
+    "label": "Teacup Bath",
+    "group": "Bathroom",
+    "notes": [
+      52,
+      56,
+      59
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0666,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "sink": {
+    "id": "sink",
+    "label": "Taffy Sink",
+    "group": "Bathroom",
+    "notes": [
+      59,
+      66
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0668,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "towel": {
+    "id": "towel",
+    "label": "Wafer Towel Rack",
+    "group": "Bathroom",
+    "notes": [
+      73,
+      66,
+      78
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0598,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "cabinet": {
+    "id": "cabinet",
+    "label": "Mint Cabinet",
+    "group": "Bathroom",
+    "notes": [
+      73,
+      77,
+      80
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0695,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "pantry-floor": {
+    "id": "pantry-floor",
+    "label": "Biscuit Floor",
+    "group": "Sweet Pantry",
+    "notes": [
+      80,
+      87
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0683,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "pantry-walls": {
+    "id": "pantry-walls",
+    "label": "Icing Walls",
+    "group": "Sweet Pantry",
+    "notes": [
+      58,
+      51,
+      63
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0651,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "gummy-song": {
+    "id": "gummy-song",
+    "label": "Gummy Bear Shelf",
+    "group": "Sweet Pantry",
+    "notes": [
+      58,
+      62,
+      65
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0756,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "fudge": {
+    "id": "fudge",
+    "label": "Fudge Workbench",
+    "group": "Sweet Pantry",
+    "notes": [
+      65,
+      72
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "Rounded two-note bell",
+    "duration": 1.0,
+    "peak": 0.24,
+    "rms": 0.0681,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "trolley": {
+    "id": "trolley",
+    "label": "Truffle Trolley",
+    "group": "Sweet Pantry",
+    "notes": [
+      79,
+      72,
+      84
+    ],
+    "step": 0.12,
+    "style": 1,
+    "description": "Gentle three-note pluck",
+    "duration": 1.09,
+    "peak": 0.24,
+    "rms": 0.0625,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "pocky-board": {
+    "id": "pocky-board",
+    "label": "Pocky Board",
+    "group": "Sweet Pantry",
+    "notes": [
+      79,
+      83,
+      86
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Soft rising three-note chime",
+    "duration": 1.13,
+    "peak": 0.24,
+    "rms": 0.0653,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "gumdrop": {
+    "id": "gumdrop",
+    "label": "Gumdrop Rescues",
+    "group": "Magic & Details",
+    "notes": [
+      84,
+      88,
+      91,
+      96
+    ],
+    "step": 0.065,
+    "style": 1,
+    "description": "A tiny rising candy melody",
+    "duration": 1.045,
+    "peak": 0.24,
+    "rms": 0.0496,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "sapphire": {
+    "id": "sapphire",
+    "label": "Sapphire Gemstone",
+    "group": "Magic & Details",
+    "notes": [
+      84,
+      91,
+      96,
+      103
+    ],
+    "step": 0.105,
+    "style": 2,
+    "description": "Bright, slowly rising magical notes",
+    "duration": 1.165,
+    "peak": 0.24,
+    "rms": 0.0618,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "heart": {
+    "id": "heart",
+    "label": "Hearts",
+    "group": "Magic & Details",
+    "notes": [
+      64,
+      67,
+      72
+    ],
+    "step": 0.15,
+    "style": 0,
+    "description": "A warm, tender three-note phrase",
+    "duration": 1.15,
+    "peak": 0.24,
+    "rms": 0.0718,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "chocolate-button": {
+    "id": "chocolate-button",
+    "label": "Clothing Gumdrop Buttons",
+    "group": "Magic & Details",
+    "notes": [
+      60,
+      72
+    ],
+    "step": 0.08,
+    "style": 1,
+    "description": "Two rounded button notes",
+    "duration": 0.93,
+    "peak": 0.24,
+    "rms": 0.0607,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "icing": {
+    "id": "icing",
+    "label": "Prince Fondant’s Icing",
+    "group": "Magic & Details",
+    "notes": [
+      65,
+      69,
+      72,
+      77
+    ],
+    "step": 0.12,
+    "style": 0,
+    "description": "A light rising swirl of tones",
+    "duration": 1.21,
+    "peak": 0.24,
+    "rms": 0.0639,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "cherry": {
+    "id": "cherry",
+    "label": "Cherry",
+    "group": "Magic & Details",
+    "notes": [
+      79,
+      76,
+      84
+    ],
+    "step": 0.09,
+    "style": 1,
+    "description": "A playful up-and-down melody",
+    "duration": 1.03,
+    "peak": 0.24,
+    "rms": 0.0543,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "petal": {
+    "id": "petal",
+    "label": "Rose Petals",
+    "group": "Magic & Details",
+    "notes": [
+      88,
+      84,
+      79,
+      76
+    ],
+    "step": 0.14,
+    "style": 2,
+    "description": "Quiet descending petal notes",
+    "duration": 1.27,
+    "peak": 0.24,
+    "rms": 0.0656,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "bow": {
+    "id": "bow",
+    "label": "Ginger’s Hair Bow",
+    "group": "Magic & Details",
+    "notes": [
+      74,
+      77,
+      81
+    ],
+    "step": 0.11,
+    "style": 0,
+    "description": "A gentle bow-shaped musical phrase",
+    "duration": 1.07,
+    "peak": 0.24,
+    "rms": 0.0597,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "cake": {
+    "id": "cake",
+    "label": "Cake on the Oven",
+    "group": "Magic & Details",
+    "notes": [
+      62,
+      69,
+      74
+    ],
+    "step": 0.13,
+    "style": 0,
+    "description": "A soft, fluffy three-note bell",
+    "duration": 1.11,
+    "peak": 0.24,
+    "rms": 0.0734,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "freezer": {
+    "id": "freezer",
+    "label": "Upper Freezer Door",
+    "group": "Magic & Details",
+    "notes": [
+      86,
+      81,
+      74
+    ],
+    "step": 0.13,
+    "style": 2,
+    "description": "A cool descending chime",
+    "duration": 1.11,
+    "peak": 0.24,
+    "rms": 0.0666,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "magical-light": {
+    "id": "magical-light",
+    "label": "All Four Character Profiles",
+    "group": "Magic & Details",
+    "notes": [
+      79,
+      86,
+      91,
+      98
+    ],
+    "step": 0.11,
+    "style": 2,
+    "description": "A shimmering magical-light arpeggio",
+    "duration": 1.18,
+    "peak": 0.24,
+    "rms": 0.0665,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "ui": {
+    "id": "ui",
+    "label": "General Interface Click",
+    "group": "Magic & Details",
+    "notes": [
+      67,
+      74
+    ],
+    "step": 0.06,
+    "style": 1,
+    "description": "A short, quiet confirmation tone",
+    "duration": 0.91,
+    "peak": 0.24,
+    "rms": 0.0551,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "wand": {
+    "id": "wand",
+    "label": "Magic Wands",
+    "group": "Ending Illustrations",
+    "notes": [
+      76,
+      83,
+      88
+    ],
+    "step": 0.16,
+    "style": 2,
+    "description": "Gentle golden-light notes",
+    "duration": 1.17,
+    "peak": 0.24,
+    "rms": 0.0683,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "crown": {
+    "id": "crown",
+    "label": "Prince Fondant’s Crown",
+    "group": "Ending Illustrations",
+    "notes": [
+      67,
+      74,
+      79
+    ],
+    "step": 0.18,
+    "style": 0,
+    "description": "A soft royal bell phrase",
+    "duration": 1.21,
+    "peak": 0.24,
+    "rms": 0.0709,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "trophy": {
+    "id": "trophy",
+    "label": "Trophies",
+    "group": "Ending Illustrations",
+    "notes": [
+      69,
+      76,
+      81
+    ],
+    "step": 0.17,
+    "style": 0,
+    "description": "Warm celebration notes",
+    "duration": 1.19,
+    "peak": 0.24,
+    "rms": 0.0729,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "certificate": {
+    "id": "certificate",
+    "label": "Certificates",
+    "group": "Ending Illustrations",
+    "notes": [
+      72,
+      76,
+      79
+    ],
+    "step": 0.19,
+    "style": 1,
+    "description": "A delicate flutter of tones",
+    "duration": 1.23,
+    "peak": 0.24,
+    "rms": 0.0717,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "medal": {
+    "id": "medal",
+    "label": "Medals",
+    "group": "Ending Illustrations",
+    "notes": [
+      74,
+      69,
+      81
+    ],
+    "step": 0.18,
+    "style": 2,
+    "description": "A gentle swaying chime",
+    "duration": 1.21,
+    "peak": 0.24,
+    "rms": 0.072,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "jar": {
+    "id": "jar",
+    "label": "Icing Jars",
+    "group": "Ending Illustrations",
+    "notes": [
+      65,
+      72,
+      77
+    ],
+    "step": 0.19,
+    "style": 0,
+    "description": "Soft rounded jar notes",
+    "duration": 1.23,
+    "peak": 0.24,
+    "rms": 0.0723,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "toolbox": {
+    "id": "toolbox",
+    "label": "Toolboxes",
+    "group": "Ending Illustrations",
+    "notes": [
+      57,
+      64,
+      69
+    ],
+    "step": 0.18,
+    "style": 1,
+    "description": "A warm low musical knock",
+    "duration": 1.21,
+    "peak": 0.24,
+    "rms": 0.0709,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "chocolate": {
+    "id": "chocolate",
+    "label": "Chocolate Pieces",
+    "group": "Ending Illustrations",
+    "notes": [
+      60,
+      67,
+      72
+    ],
+    "step": 0.17,
+    "style": 0,
+    "description": "Mellow chocolate-like notes",
+    "duration": 1.19,
+    "peak": 0.24,
+    "rms": 0.0738,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "candy": {
+    "id": "candy",
+    "label": "Wrapped Candies",
+    "group": "Ending Illustrations",
+    "notes": [
+      77,
+      81,
+      84
+    ],
+    "step": 0.15,
+    "style": 1,
+    "description": "A gentle candy twirl",
+    "duration": 1.15,
+    "peak": 0.24,
+    "rms": 0.0676,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "feather": {
+    "id": "feather",
+    "label": "Timber’s Feather",
+    "group": "Ending Illustrations",
+    "notes": [
+      81,
+      77,
+      74
+    ],
+    "step": 0.2,
+    "style": 2,
+    "description": "A slow, light feather phrase",
+    "duration": 1.25,
+    "peak": 0.24,
+    "rms": 0.0732,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "icing-tube": {
+    "id": "icing-tube",
+    "label": "Icing Tubes",
+    "group": "Ending Illustrations",
+    "notes": [
+      62,
+      69,
+      74
+    ],
+    "step": 0.19,
+    "style": 2,
+    "description": "A soft curling melody",
+    "duration": 1.23,
+    "peak": 0.24,
+    "rms": 0.0753,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "cupcake": {
+    "id": "cupcake",
+    "label": "Background Cupcakes",
+    "group": "Ending Illustrations",
+    "notes": [
+      70,
+      74,
+      77
+    ],
+    "step": 0.17,
+    "style": 0,
+    "description": "A tender cupcake celebration",
+    "duration": 1.19,
+    "peak": 0.24,
+    "rms": 0.0694,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "storybook-page": {
+    "id": "storybook-page",
+    "label": "Storybook Pages",
+    "group": "Storybook",
+    "notes": [
+      60,
+      64,
+      67
+    ],
+    "step": 0.21,
+    "style": 1,
+    "description": "Quiet notes for turning a page",
+    "duration": 1.27,
+    "peak": 0.24,
+    "rms": 0.0735,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "storybook-rings": {
+    "id": "storybook-rings",
+    "label": "Wedding Rings",
+    "group": "Storybook",
+    "notes": [
+      72,
+      79,
+      84
+    ],
+    "step": 0.21,
+    "style": 2,
+    "description": "A gentle wedding-ring shimmer",
+    "duration": 1.27,
+    "peak": 0.24,
+    "rms": 0.0744,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "storybook-heart": {
+    "id": "storybook-heart",
+    "label": "Storybook Hearts",
+    "group": "Storybook",
+    "notes": [
+      65,
+      69,
+      74
+    ],
+    "step": 0.22,
+    "style": 0,
+    "description": "A soft phrase of joy and love",
+    "duration": 1.29,
+    "peak": 0.24,
+    "rms": 0.0762,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "outside": {
+    "id": "outside",
+    "label": "Outside",
+    "group": "Cottage Navigation",
+    "notes": [
+      55,
+      62,
+      67
+    ],
+    "step": 0.16,
+    "style": 0,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.17,
+    "peak": 0.24,
+    "rms": 0.0692,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "inside": {
+    "id": "inside",
+    "label": "Inside",
+    "group": "Cottage Navigation",
+    "notes": [
+      56,
+      63,
+      68
+    ],
+    "step": 0.163,
+    "style": 1,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.176,
+    "peak": 0.24,
+    "rms": 0.0692,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-cottage": {
+    "id": "enter-cottage",
+    "label": "Enter Cottage",
+    "group": "Cottage Navigation",
+    "notes": [
+      57,
+      64,
+      69
+    ],
+    "step": 0.166,
+    "style": 2,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.182,
+    "peak": 0.24,
+    "rms": 0.0747,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "first-floor": {
+    "id": "first-floor",
+    "label": "First Floor",
+    "group": "Cottage Navigation",
+    "notes": [
+      58,
+      65,
+      70
+    ],
+    "step": 0.169,
+    "style": 0,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.188,
+    "peak": 0.24,
+    "rms": 0.0702,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "second-floor": {
+    "id": "second-floor",
+    "label": "Second Floor",
+    "group": "Cottage Navigation",
+    "notes": [
+      59,
+      66,
+      71
+    ],
+    "step": 0.17200000000000001,
+    "style": 1,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.194,
+    "peak": 0.24,
+    "rms": 0.0711,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-kitchen": {
+    "id": "enter-kitchen",
+    "label": "Enter Kitchen",
+    "group": "Cottage Navigation",
+    "notes": [
+      60,
+      67,
+      72
+    ],
+    "step": 0.175,
+    "style": 2,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.2,
+    "peak": 0.24,
+    "rms": 0.0765,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-living": {
+    "id": "enter-living",
+    "label": "Enter Living Room",
+    "group": "Cottage Navigation",
+    "notes": [
+      61,
+      68,
+      73
+    ],
+    "step": 0.178,
+    "style": 0,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.206,
+    "peak": 0.24,
+    "rms": 0.0734,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-office": {
+    "id": "enter-office",
+    "label": "Enter Office",
+    "group": "Cottage Navigation",
+    "notes": [
+      62,
+      69,
+      74
+    ],
+    "step": 0.181,
+    "style": 1,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.212,
+    "peak": 0.24,
+    "rms": 0.0731,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-bedroom": {
+    "id": "enter-bedroom",
+    "label": "Enter Bedroom",
+    "group": "Cottage Navigation",
+    "notes": [
+      63,
+      70,
+      75
+    ],
+    "step": 0.184,
+    "style": 2,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.218,
+    "peak": 0.24,
+    "rms": 0.0708,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-bathroom": {
+    "id": "enter-bathroom",
+    "label": "Enter Bathroom",
+    "group": "Cottage Navigation",
+    "notes": [
+      64,
+      71,
+      76
+    ],
+    "step": 0.187,
+    "style": 0,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.224,
+    "peak": 0.24,
+    "rms": 0.0742,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "enter-pantry": {
+    "id": "enter-pantry",
+    "label": "Enter Sweet Pantry",
+    "group": "Cottage Navigation",
+    "notes": [
+      65,
+      72,
+      77
+    ],
+    "step": 0.19,
+    "style": 1,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.23,
+    "peak": 0.24,
+    "rms": 0.0723,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "room-enlarge": {
+    "id": "room-enlarge",
+    "label": "Enlarge Room",
+    "group": "Cottage Navigation",
+    "notes": [
+      66,
+      73,
+      78
+    ],
+    "step": 0.193,
+    "style": 2,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.236,
+    "peak": 0.24,
+    "rms": 0.0793,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "desk-books": {
+    "id": "desk-books",
+    "label": "Books on the Pretzel Desk",
+    "group": "Office",
+    "notes": [
+      67,
+      74,
+      79
+    ],
+    "step": 0.196,
+    "style": 0,
+    "description": "A soft, gentle three-note phrase",
+    "duration": 1.242,
+    "peak": 0.24,
+    "rms": 0.0732,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "desk-lamp": {
+    "id": "desk-lamp",
+    "label": "Mini Table Lamp on Pretzel Desk",
+    "group": "Office",
+    "notes": [
+      64,
+      71,
+      80
+    ],
+    "step": 0.185,
+    "style": 0,
+    "description": "A warm, gentle lamp-light chime",
+    "duration": 1.22,
+    "peak": 0.24,
+    "rms": 0.0722,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  },
+  "keepsake-box": {
+    "id": "keepsake-box",
+    "label": "Ginger’s Keepsake Box",
+    "group": "Storybook",
+    "notes": [
+      62,
+      69,
+      78
+    ],
+    "step": 0.205,
+    "style": 0,
+    "description": "A gentle keepsake-box shimmer",
+    "duration": 1.26,
+    "peak": 0.24,
+    "rms": 0.0767,
+    "source": "Original code-generated sine tones only",
+    "status": "Finalized — soft and gentle"
+  }
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "key": "kitchen:0",
+    "group": "Kitchen",
+    "label": "Biscuit Floor",
+    "tone": "kitchen-floor"
+  },
+  {
+    "key": "kitchen:1",
+    "group": "Kitchen",
+    "label": "Icing Walls",
+    "tone": "kitchen-walls"
+  },
+  {
+    "key": "kitchen:2",
+    "group": "Kitchen",
+    "label": "Chocolate Oven",
+    "tone": "oven"
+  },
+  {
+    "key": "kitchen:3",
+    "group": "Kitchen",
+    "label": "Peppermint Fridge",
+    "tone": "fridge"
+  },
+  {
+    "key": "kitchen:4",
+    "group": "Kitchen",
+    "label": "Macaron Table",
+    "tone": "macaron-table"
+  },
+  {
+    "key": "kitchen:5",
+    "group": "Kitchen",
+    "label": "Espresso-Bean Maker",
+    "tone": "espresso"
+  },
+  {
+    "key": "living:0",
+    "group": "Living Room",
+    "label": "Biscuit Floor",
+    "tone": "living-floor"
+  },
+  {
+    "key": "living:1",
+    "group": "Living Room",
+    "label": "Icing Walls",
+    "tone": "living-walls"
+  },
+  {
+    "key": "living:2",
+    "group": "Living Room",
+    "label": "Marshmallow Sofa",
+    "tone": "sofa"
+  },
+  {
+    "key": "living:3",
+    "group": "Living Room",
+    "label": "Toffee Fireplace",
+    "tone": "fireplace"
+  },
+  {
+    "key": "living:4",
+    "group": "Living Room",
+    "label": "Jawbreaker Shelf",
+    "tone": "jawbreaker"
+  },
+  {
+    "key": "living:5",
+    "group": "Living Room",
+    "label": "Lollipop Lamp",
+    "tone": "lamp"
+  },
+  {
+    "key": "office:0",
+    "group": "Office",
+    "label": "Biscuit Floor",
+    "tone": "office-floor"
+  },
+  {
+    "key": "office:1",
+    "group": "Office",
+    "label": "Icing Walls",
+    "tone": "office-walls"
+  },
+  {
+    "key": "office:2",
+    "group": "Office",
+    "label": "Pretzel Desk",
+    "tone": "desk"
+  },
+  {
+    "key": "office:3",
+    "group": "Office",
+    "label": "Wafer Shelf",
+    "tone": "bookshelf"
+  },
+  {
+    "key": "office:4",
+    "group": "Office",
+    "label": "Pretzel Chair",
+    "tone": "pretzel-chair"
+  },
+  {
+    "key": "office:5",
+    "group": "Office",
+    "label": "Rock Candy Curio",
+    "tone": "rock-candy"
+  },
+  {
+    "key": "bedroom:0",
+    "group": "Bedroom",
+    "label": "Biscuit Floor",
+    "tone": "bedroom-floor"
+  },
+  {
+    "key": "bedroom:1",
+    "group": "Bedroom",
+    "label": "Icing Walls",
+    "tone": "bedroom-walls"
+  },
+  {
+    "key": "bedroom:2",
+    "group": "Bedroom",
+    "label": "Cotton Candy Bed",
+    "tone": "cotton-bed"
+  },
+  {
+    "key": "bedroom:3",
+    "group": "Bedroom",
+    "label": "Tootsie Wardrobe",
+    "tone": "wardrobe"
+  },
+  {
+    "key": "bedroom:4",
+    "group": "Bedroom",
+    "label": "Candyfloss Rug",
+    "tone": "candyfloss"
+  },
+  {
+    "key": "bedroom:5",
+    "group": "Bedroom",
+    "label": "Family Painting",
+    "tone": "family-painting"
+  },
+  {
+    "key": "bathroom:0",
+    "group": "Bathroom",
+    "label": "Biscuit Floor",
+    "tone": "bathroom-floor"
+  },
+  {
+    "key": "bathroom:1",
+    "group": "Bathroom",
+    "label": "Icing Walls",
+    "tone": "bathroom-walls"
+  },
+  {
+    "key": "bathroom:2",
+    "group": "Bathroom",
+    "label": "Teacup Bath",
+    "tone": "tea"
+  },
+  {
+    "key": "bathroom:3",
+    "group": "Bathroom",
+    "label": "Taffy Sink",
+    "tone": "sink"
+  },
+  {
+    "key": "bathroom:4",
+    "group": "Bathroom",
+    "label": "Wafer Towel Rack",
+    "tone": "towel"
+  },
+  {
+    "key": "bathroom:5",
+    "group": "Bathroom",
+    "label": "Mint Cabinet",
+    "tone": "cabinet"
+  },
+  {
+    "key": "pantry:0",
+    "group": "Sweet Pantry",
+    "label": "Biscuit Floor",
+    "tone": "pantry-floor"
+  },
+  {
+    "key": "pantry:1",
+    "group": "Sweet Pantry",
+    "label": "Icing Walls",
+    "tone": "pantry-walls"
+  },
+  {
+    "key": "pantry:2",
+    "group": "Sweet Pantry",
+    "label": "Gummy Bear Shelf",
+    "tone": "gummy-song"
+  },
+  {
+    "key": "pantry:3",
+    "group": "Sweet Pantry",
+    "label": "Fudge Workbench",
+    "tone": "fudge"
+  },
+  {
+    "key": "pantry:4",
+    "group": "Sweet Pantry",
+    "label": "Truffle Trolley",
+    "tone": "trolley"
+  },
+  {
+    "key": "pantry:5",
+    "group": "Sweet Pantry",
+    "label": "Pocky Board",
+    "tone": "pocky-board"
+  }
+]
