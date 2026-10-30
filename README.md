@@ -2,7 +2,7 @@
 ## 🎯 Objective <br>
 This project creates a real-time fairytale game for 2–8 players, inspired by the Shrek The Third scene where Pinocchio uses clever logic to avoid lying to Prince Charming. His replies bring propositional logic to life through playful riddles. Players join with a room code and complete synchronized, timed rounds with shared scoring as their cottage builds or crumbles. <p>
 ## 🎬 Inspiration <br>
-
+### Shrek The Third's Pinocchio Tries to Lie
 <a href="https://youtu.be/2xhC2cbq7zA">
   <img src="https://img.youtube.com/vi/2xhC2cbq7zA/hqdefault.jpg" width="65%" alt="Watch Project Video">
 </a>
