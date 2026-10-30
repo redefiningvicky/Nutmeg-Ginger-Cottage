@@ -11,7 +11,7 @@ This project creates a real-time fairytale game for 2–8 players, inspired by t
 
 ## 🛠️ Tools <br>
 ChatGPT Work <p>
-## 🪙 Token Usage <br>
+## 🪙 ChatGPT Token Usage <br>
 Estimated 68 M+
 ## 🎮 Game <br>
 This project is a fully functional game available at the following link: [Play Game](https://nutmeg-ginger-cottage.airyant14.chatgpt.site) <p>
