@@ -10,17 +10,35 @@ This project creates a real-time fairytale game for 2–8 players, inspired by t
 <sub>Click the image above to watch the inspiration video.</sub> <p>
 
 ## 🛠️ Tools <br>
-ChatGPT Work <p>
+ChatGPT <p>
 ## 🪙 ChatGPT Token Usage <br>
 Estimated 68 M+
 ## 🎮 Game <br>
 This project is a fully functional game available at the following link: [Play Game](https://nutmeg-ginger-cottage.airyant14.chatgpt.site) <p>
-### Game Menu
-![Game Menu](https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/f7560b0d12951c11ece00fde2c43c31d9ff0a4a9/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Menu.png)
-### Victory Screen
-![Victory Screen](https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/f7560b0d12951c11ece00fde2c43c31d9ff0a4a9/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Win.png)
-### Defeat Screen
-![Defeat Screen](https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/f7560b0d12951c11ece00fde2c43c31d9ff0a4a9/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Lose.png)
+### Game Menu <p>
+
+### Game Menu Screen <p>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/f7560b0d12951c11ece00fde2c43c31d9ff0a4a9/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Menu.png" width="100%"></td>
+  </tr>
+</table>
+
+### Victory & Defeat Screen
+
+<table>
+  <tr>
+    <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/f7560b0d12951c11ece00fde2c43c31d9ff0a4a9/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Win.png" width="100%"></td>
+    <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/f7560b0d12951c11ece00fde2c43c31d9ff0a4a9/Nutmeg_Ginger_Cottage_Screen/Nutmeg_Ginger_Cottage_Lose.png" width="100%"></td>
+  </tr>
+</table>
+
+
+
+
+
+
 ## 🖼️ Images <br>
 <table>
   <tr>
