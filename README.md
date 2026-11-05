@@ -32,12 +32,8 @@ This project is a fully functional game available at the following link: [Play G
   </tr>
 </table>
 
-
-
-
-
-
 ## 🖼️ Images <br>
+
 <table>
   <tr>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/1f14379b071d32580a147484392402a1c89b98aa/Nutmeg_Ginger_Cottage_Design/first-floor-kitchen.gif" width="100%"></td>
@@ -49,17 +45,11 @@ This project is a fully functional game available at the following link: [Play G
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/second-floor-bathroom.gif" width="100%"></td>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/second-floor-sweet-pantry.gif" width="100%"></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/happily-ever-after.gif" width="100%"></td>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/a-royally-sweet-makeover.gif" width="100%"></td>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/a-royal-victory.gif" width="100%"></td>
   </tr>
-</table>
-  
-<table>
   <tr>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/ready-to-rebuild-together.gif" width="100%"></td>
     <td><img src="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage/blob/901bf1127fe3765fc42ebe0a684c4e6431c8ab2c/Nutmeg_Ginger_Cottage_Design/storybook.gif" width="100%"></td>
