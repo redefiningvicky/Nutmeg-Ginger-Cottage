@@ -12,7 +12,7 @@ This project creates a real-time fairytale game for 2–8 players, inspired by t
 ## 🛠️ Tools <br>
 ChatGPT <p>
 ## ⚙️ Model <br>
-ChatGPT 6.1 Sol <p>
+ChatGPT 6.1 Sol, 2026 <p>
 ## 🪙 ChatGPT Token Usage <br>
 Estimated 68 M+
 ## 🎮 Game <br>
