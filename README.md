@@ -339,16 +339,26 @@
 
 <hr>
 
+<h2 id="board-game-edition">🎲 Board Game Edition</h2>
+
+<p>
+  The digital adventure also inspired a physical board game concept,
+  bringing the same riddles, teamwork, and sweet surprises to the table.
+  The board game edition remains a separate project.
+</p>
+
+<p>
+  <a href="https://github.com/redefiningvicky/Nutmeg-Ginger-Cottage-Board-Game">View Board Game Project</a>
+</p>
+
+<hr>
+
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">
-      Back to Vibe Coding Projects
-    </a>
+    <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">Back to Vibe Coding Projects</a>
     &nbsp; • &nbsp;
-    <a href="https://github.com/redefiningvicky/redefiningvicky">
-      Back to Portfolio
-    </a>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">Back to Portfolio</a>
   </p>
 
 </div>
