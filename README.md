@@ -20,6 +20,7 @@
   <li><a href="#game">Game</a></li>
   <li><a href="#screenshots">Screenshots</a></li>
   <li><a href="#gifs">GIFs</a></li>
+  <li><a href="#board-game-edition">Board Game Edition</a></li>
 </ul>
 
 <hr>
