@@ -80,6 +80,10 @@
   <strong>Estimated Token Usage:</strong> 68M+
 </p>
 
+<p>
+  <strong>Format:</strong> Browser and Mobile Game
+</p>
+
 <hr>
 
 <h2 id="game">🎮 Game</h2>
