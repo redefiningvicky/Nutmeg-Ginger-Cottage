@@ -81,7 +81,7 @@
 </p>
 
 <p>
-  <strong>Format:</strong> Browser and Mobile Game
+  <strong>Format:</strong> Browser Game for PC and Mobile
 </p>
 
 <hr>
