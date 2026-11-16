@@ -361,9 +361,9 @@
 <div align="center">
 
   <p>
-    <a href="https://github.com/redefiningvicky/Vibe-Coding-Projects">Back to Vibe Coding Projects</a>
-    &nbsp; • &nbsp;
-    <a href="https://github.com/redefiningvicky/redefiningvicky">Back to Portfolio</a>
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
   </p>
 
 </div>
